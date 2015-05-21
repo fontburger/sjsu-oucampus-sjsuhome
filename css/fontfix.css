@@ -227,7 +227,7 @@ td li {font-size:100%;}
 /* main nav */
 
 	nav ul#homenav li a span.navarrow, nav ul#homenav li a span.navarrow,
-	nav ul#topnav li a span.navarrow, nav ul#topnav li a span.navarrow{width:8px; height:4px; margin-left:5px; margin-top:8px;}
+	nav ul#topnav li a span.navarrow, nav ul#topnav li a span.navarrow{width:8px; height:4px; margin-left:4px; margin-top:8px;}
 	h2.navname {font-size:100%; line-height:1.2;}
 		.navname:hover {color:#C79900; text-decoration:none;}
 	h2.navname span a {display:block; float:left; text-decoration:none; color:#333; clear: right;}
